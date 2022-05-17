@@ -1,0 +1,16 @@
+table{
+	border-collapse: collapse;
+	margin: auto;
+}
+td, th{
+	border: 1px solid rgb(14, 200, 216);
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+#figure{
+    border: 2px solid #91108e; /* bordure */
+    margin: 130px 0 0 0; /* marges haut droite bas gauche */
+    }

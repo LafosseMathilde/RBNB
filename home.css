@@ -1,0 +1,23 @@
+nav{
+    background: rgba(248, 46, 10, 0.8); /* fond */
+    color: #fff;
+    padding: 0.5em 0;
+    position: fixed; /* Le menu a une position fixe lors de la descente dans la page */
+    text-align: center; /* alignement du texte centré */
+    width: 100%; /* largeur 100% de la fenêtre */
+    top: 0; /* aligné à 0px du haut */
+    left: 0; /* aligné à 0px de la gauche */
+    }
+    nav  a{ 
+    padding: 0.5em 2em; 
+    color: #fff; 
+    text-decoration: none; 
+    height: 33px; 
+    }
+    nav  a:hover{ 
+    background: #fd4800; 
+    }
+    #contenu{
+    border: 2px solid #ffffff; /* bordure */
+    margin: 130px 0 0 0; /* marges haut droite bas gauche */
+    }

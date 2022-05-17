@@ -1,0 +1,24 @@
+#conteneur{
+ height:100px;
+ width : 600px;
+ display:flex;
+ background-color: white; 
+}
+.element1{
+ margin:5px;
+ border: 2px solid black;
+ text-align:center; 
+ background-color: blue; width : 195px
+}
+.element2{
+ margin:5px;
+ border: 2px solid black;
+ text-align:center; 
+ background-color: blue; width : 195px
+}
+.element3{
+ margin:5px;
+ border: 2px solid black;
+ text-align:center; 
+ background-color: blue; width : 195px
+}
